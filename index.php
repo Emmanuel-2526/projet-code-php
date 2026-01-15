@@ -100,7 +100,7 @@
 
     <br>
 
-<h2>Our achievemens</h2>
+<h2>Our achievements</h2>
 
     <?php
         $achievements = ["Site vitrine", "Application mobile", "Identité visuelle"];
